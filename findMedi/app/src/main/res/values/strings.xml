@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ma01_20180965</string>
+    <string name="map_key">AIzaSyCMxFzhbMB25BhYaWBvrpia1FGxOfMmwCk</string>
+    <string name="api_key">KwD496IzJUThcGRjhfLJ6Pnacto1zSMHuaOqNHVUEt62kIV5qyzOCxr23qLgtLeN0k871wOm91qIEygRlyuxwA%3D%3D</string>
+    <string name="hospital_url">http://apis.data.go.kr/B552657/HsptlAsembySearchService/getHsptlMdcncLcinfoInqire?serviceKey=</string>
+    <string name="pharmacy_url">http://apis.data.go.kr/B552657/ErmctInsttInfoInqireService/getParmacyListInfoInqire?serviceKey=</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/update"
+        android:title="수정하기" />
+    <item
+        android:id="@+id/sharePage"
+        android:title="페이지 공유하기" />
+</menu>
